@@ -1,5 +1,5 @@
 [build]
-  command = "cd frontend && flutter build web --release"
+  command = "git clone https://github.com/flutter/flutter.git --depth 1 -b stable && export PATH=\"$PATH:`pwd`/flutter/bin\" && cd frontend && flutter build web --release"
   publish = "frontend/build/web"
 
 [[redirects]]

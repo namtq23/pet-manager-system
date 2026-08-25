@@ -1,0 +1,11 @@
+{
+  "name": "Thú Y Mỹ Đình",
+  "short_name": "Thú Y Mỹ Đình",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2E7D32",
+  "theme_color": "#2E7D32",
+  "description": "Hệ thống Quản lý Khách hàng & Thú cưng - Bệnh Viện Thú Y Mỹ Đình",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}

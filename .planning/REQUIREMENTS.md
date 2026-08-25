@@ -7,22 +7,22 @@
 
 ### Authentication & User Management
 
-- [ ] **AUTH-01**: Bác sĩ có thể đăng nhập bằng tài khoản (email/username + mật khẩu)
-- [ ] **AUTH-02**: Quản lý tài khoản bác sĩ (5-15 bác sĩ, phân quyền cơ bản)
-- [ ] **AUTH-03**: Duy trì phiên đăng nhập và ghi nhận thông tin bác sĩ thực hiện các thao tác (upload ảnh, cập nhật hồ sơ)
+- [x] **AUTH-01**: Bác sĩ có thể đăng nhập bằng tài khoản (email/username + mật khẩu)
+- [x] **AUTH-02**: Quản lý tài khoản bác sĩ (5-15 bác sĩ, phân quyền cơ bản)
+- [x] **AUTH-03**: Duy trì phiên đăng nhập và ghi nhận thông tin bác sĩ thực hiện các thao tác (upload ảnh, cập nhật hồ sơ)
 
 ### Customer & Pet Management
 
-- [ ] **CUST-01**: Bác sĩ có thể quản lý thông tin khách hàng (chủ nuôi): Tên, SĐT, Địa chỉ
-- [ ] **CUST-02**: Bác sĩ có thể quản lý thông tin thú cưng: Tên, Giống, Tuổi, Cân nặng (1 chủ nuôi có thể có nhiều cún)
-- [ ] **CUST-03**: Tra cứu thông tin nhanh bằng Số điện thoại chủ nuôi ➔ Danh sách cún liên quan
+- [x] **CUST-01**: Bác sĩ có thể quản lý thông tin khách hàng (chủ nuôi): Tên, SĐT, Địa chỉ
+- [x] **CUST-02**: Bác sĩ có thể quản lý thông tin thú cưng: Tên, Giống, Tuổi, Cân nặng (1 chủ nuôi có thể có nhiều cún)
+- [x] **CUST-03**: Tra cứu thông tin nhanh bằng Số điện thoại chủ nuôi ➔ Danh sách cún liên quan
 
 ### Photo & Treatment Management
 
-- [ ] **PHOTO-01**: Bác sĩ có thể upload ảnh hoặc chụp ảnh trực tiếp từ thiết bị di động (Web responsive)
-- [ ] **PHOTO-02**: Nhóm ảnh theo từng lần khám (Lần 1, Lần 2, Lần 3...)
-- [ ] **PHOTO-03**: Ghi chú theo từng ảnh / lần khám: triệu chứng, tình trạng bệnh, đánh giá tiến triển
-- [ ] **PHOTO-04**: Hiển thị Timeline ảnh trực quan cho phép so sánh ảnh trước/sau điều trị
+- [x] **PHOTO-01**: Bác sĩ có thể upload ảnh hoặc chụp ảnh trực tiếp từ thiết bị di động (Web responsive)
+- [x] **PHOTO-02**: Nhóm ảnh theo từng lần khám (Lần 1, Lần 2, Lần 3...)
+- [x] **PHOTO-03**: Ghi chú theo từng ảnh / lần khám: triệu chứng, tình trạng bệnh, đánh giá tiến triển
+- [x] **PHOTO-04**: Hiển thị Timeline ảnh trực quan cho phép so sánh ảnh trước/sau điều trị
 
 ## v2 Requirements
 
@@ -44,16 +44,16 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| AUTH-01 | Phase 1 | Pending |
-| AUTH-02 | Phase 1 | Pending |
-| AUTH-03 | Phase 1 | Pending |
-| CUST-01 | Phase 2 | Pending |
-| CUST-02 | Phase 2 | Pending |
-| CUST-03 | Phase 2 | Pending |
-| PHOTO-01 | Phase 3 | Pending |
-| PHOTO-02 | Phase 3 | Pending |
-| PHOTO-03 | Phase 3 | Pending |
-| PHOTO-04 | Phase 4 | Pending |
+| AUTH-01 | Phase 1 | Complete |
+| AUTH-02 | Phase 1 | Complete |
+| AUTH-03 | Phase 1 | Complete |
+| CUST-01 | Phase 2 | Complete |
+| CUST-02 | Phase 2 | Complete |
+| CUST-03 | Phase 2 | Complete |
+| PHOTO-01 | Phase 3 | Complete |
+| PHOTO-02 | Phase 3 | Complete |
+| PHOTO-03 | Phase 3 | Complete |
+| PHOTO-04 | Phase 4 | Complete |
 
 **Coverage:**
 - v1 requirements: 10 total
@@ -62,4 +62,4 @@
 
 ---
 *Requirements defined: 2026-08-24*
-*Last updated: 2026-08-24 after initial definition*
+*Last updated: 2026-08-24 after Phase 3 completion*
